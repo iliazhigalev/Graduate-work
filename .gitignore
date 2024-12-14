@@ -1,0 +1,36 @@
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment files
+.env
+*.env
+
+# Virtual environment folders
+venv/
+env/
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Matplotlib cache
+.matplotlib/
+
+# Pytest cache
+.pytest_cache/
+
+# Output files (if any)
+*.png
+*.pdf
+*.csv
